@@ -1,6 +1,6 @@
 # Hey there! I'm Great aka Ravstar ⚡
 
-💻 13 y/o Full-Stack Dev & AI Enthusiast  
+💻 14 y/o Full-Stack Dev & AI Enthusiast  
 🚀 Building tools, and products that solve real-world problems  
 🌌 Dreaming of ASI, brain interfaces, and space tech
 📈 Projects: POSPro, Affiliate Site(Ravville eBuy)
