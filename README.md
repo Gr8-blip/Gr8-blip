@@ -1,9 +1,9 @@
 # Hey there! I'm Great aka Ravstar ⚡
 
 💻 14 y/o Full-Stack Dev & AI Enthusiast  
-🚀 Building tools, and products that solve real-world problems  
-🌌 Dreaming of ASI, brain interfaces, and space tech
-📈 Projects: POSPro, Affiliate Site(Ravville eBuy)
+🚀 Passionate about building intelligent systems that solve real-world problems  
+🌌 On a mission to shape the future of tech through AI, brain interfaces, and space innovation
+📈 Current Projects: POSPro, Ravville eBuy
 
 ### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -16,9 +16,13 @@
 
 ### 🔥 Featured Projects
 - [POSPro 💼](https://ravvilletech.com/profit_calculator/): Profit calculator with dashboard and trial system (LIVE)
-- [Affiliate Engine 🛒](http://ravvillebuy.ravvilletech.com/): Affiliate marketplace to list and promote products (LIVE)
+- [Ecommerce store 🛒](http://ravvillebuy.ravvilletech.com/): E-commerce and affiliate platform for digital and local products
 
 ---
+
+🪐 Vision
+“I believe the next era of technology will bridge human intelligence and artificial intelligence —
+empowering people to think, learn, and create beyond limits.”
 
 📬 Let's connect: [greatheboss989@gmail.com](mailto:greatheboss989@gmail.com)
 🧠 Let’s build together!
