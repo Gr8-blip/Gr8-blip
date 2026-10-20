@@ -1,6 +1,6 @@
-# Hey there! I'm Great aka Ravstar ⚡
+# Hey there! I'm Great aka Zyrok ⚡
 
-💻 14 y/o Full-Stack Dev & AI Enthusiast  
+💻 15 y/o Full-Stack Dev & AI Enthusiast  
 🚀 Passionate about building intelligent systems that solve real-world problems  
 🌌 On a mission to shape the future of tech through AI, brain interfaces, and space innovation
 📈 Current Projects: POSPro, Ravville eBuy
